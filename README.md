@@ -1,4 +1,4 @@
-# dicee
+#  Dicee - Building Apps with State
 
 A new Flutter application.
 
