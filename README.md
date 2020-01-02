@@ -1,4 +1,4 @@
-# dicee
+# dice
 
 A new Flutter application.
 
